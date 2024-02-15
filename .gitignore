@@ -1,5 +1,10 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 #
+# Ignores any personal or private files that are not needed by the project
+#
+/[Pp]ersonal/
+/[Pp]rivate/
+
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 /[Ll]ibrary/
