@@ -22028,7 +22028,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 858f2006b862fd946a8518cae8757b85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementMethod: 3
+  movementMethod: 2
   constantSpeedDistance: 0.3
   speedMultiplier: 1.5
   playerHead: {fileID: 503995887}
